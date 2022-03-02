@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Alıştırma - Closure Oluşturma'/>
+        <page name='2. Alıştırma - Passing Closures as Arguments and Syntactic Sugar'/>
+        <page name='3. Alıştırma - Koleksiyon Fonksiyonları'/>
+    </pages>
+</playground>

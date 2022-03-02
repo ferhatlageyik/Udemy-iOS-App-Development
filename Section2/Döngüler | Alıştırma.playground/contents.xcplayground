@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Alıştırma - For-In Döngüleri'/>
+        <page name='2. Uygulama - Aktiviteler'/>
+        <page name='3. Alıştırma - While Döngüleri'/>
+        <page name='4. Uygulama - Koşu Temposu'/>
+        <page name='5. Alıştırma - Kontrol Transfer Komutları'/>
+        <page name='6. Uygulama - Aktivite Önerme'/>
+    </pages>
+</playground>

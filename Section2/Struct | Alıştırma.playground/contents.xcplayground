@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Alıştırma - Struct ve Varsayılan Değerler'/>
+        <page name='2. Uygulama - Antrenman Takibi'/>
+        <page name='3. Alıştırma - Initializer'/>
+        <page name='4. Uygulama - Kullanıcılar ve Mesafe'/>
+        <page name='5. Alıştırma - Metodlar'/>
+        <page name='6. Uygulama - Antrenman Metodları'/>
+        <page name='7. Alıştırma - Computed Property ve Property Observer'/>
+        <page name='8. Uygulama - Mil Süresi ve Tebrik Mesajı'/>
+        <page name='9. Alıştırma - Tip Özellikleri ve Metodları'/>
+        <page name='10. Uygulama - Tip Özellikleri ve Metodları'/>
+    </pages>
+</playground>

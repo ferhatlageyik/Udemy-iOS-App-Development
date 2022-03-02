@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. Optional Değerler'/>
+        <page name='2. Nabız Takibi Uygulaması'/>
+        <page name='3. Fonksiyonlar ve Optional Değerler'/>
+        <page name='4. Öğün Takibi Uygulaması'/>
+        <page name='5. Bilgisayar'/>
+        <page name='6. Egzersiz Takibi Uygulaması'/>
+    </pages>
+</playground>
